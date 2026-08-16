@@ -100,6 +100,8 @@ I build practical homelabs to develop hands-on experience with Active Directory,
 ### 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-dj--kolkol2002-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dj-kolkol2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jakubkolkowski-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubkolkowski)
+[![Email](https://img.shields.io/badge/Email-jakubkolkowski5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jakubkolkowski5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dj--kolkol2002.github.io-00C7B7?style=flat-square&logo=githubpages&logoColor=white)](https://dj-kolkol2002.github.io/Portfolio-Card/)
 
 *💡 This GitHub profile documents my homelabs, configurations and hands-on learning in IT Support, Helpdesk, Networking and Infrastructure.*
