@@ -17,7 +17,7 @@ I build practical homelabs to develop hands-on experience with Active Directory,
 
 ### 🛠️ Tech Stack & Skills
 
-**Helpdesk & IT Support**
+#### Helpdesk & IT Support
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
@@ -25,13 +25,13 @@ I build practical homelabs to develop hands-on experience with Active Directory,
 ![ITIL](https://img.shields.io/badge/ITIL-2F4858?style=flat-square)
 ![HelpDesk.app](https://img.shields.io/badge/HelpDesk.app-1E90FF?style=flat-square)
 
-**Remote Support & Tools**
+#### Remote Support & Tools
 ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF443B?style=flat-square&logo=anydesk&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat-square&logo=teamviewer&logoColor=white)
 ![RDP](https://img.shields.io/badge/RDP-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-111827?style=flat-square&logo=openssh&logoColor=white)
 
-**Infrastructure & Networking**
+#### Infrastructure & Networking
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -39,19 +39,19 @@ I build practical homelabs to develop hands-on experience with Active Directory,
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Networking & Security**
+#### Networking & Security
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-F15A24?style=flat-square)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
-**Virtualization & Backup**
+#### Virtualization & Backup
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 ![Veeam Backup](https://img.shields.io/badge/Veeam%20Backup-00B336?style=flat-square&logo=veeam&logoColor=white)
 
-**Web Development**
+#### Web Development
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -69,7 +69,7 @@ I build practical homelabs to develop hands-on experience with Active Directory,
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**AI Tools & Others**
+#### AI Tools & Others
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
