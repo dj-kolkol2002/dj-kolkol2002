@@ -1,6 +1,5 @@
 Hi there, I'm Jakub Kołkowski 👋
 Junior IT Support | Helpdesk | Network & Infrastructure
----
 I am an aspiring IT Support / Helpdesk specialist focused on troubleshooting, Windows environments, networking and infrastructure.
 I build practical homelabs and technical projects to develop hands-on experience with Active Directory, Windows Server, Microsoft 365, pfSense, VMware, EVE-NG, Linux and remote support tools.
 My goal is to continue growing toward IT Support, System Administration and Network Administration.
@@ -11,131 +10,68 @@ My goal is to continue growing toward IT Support, System Administration and Netw
 🌐 Developing networking skills: Cisco IOS, pfSense, EVE-NG, VPNs and network services.
 ⚙️ Improving administration skills: PowerShell, Bash, Linux servers and Windows environments.
 💻 Building technical projects: web applications, Docker environments and IT support tools.
-🤖 Using AI tools: for research, documentation, coding assistance and troubleshooting.
+🤖 Using AI tools: research, documentation, coding assistance and troubleshooting.
 ---
 💻 Tech Stack & Tools
 🛠️ Helpdesk & IT Support
-<p align="left">
-  <img src="https://cdn.simpleicons.org/googleworkspace" height="40" alt="Google Workspace" title="Google Workspace" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/anydesk" height="40" alt="AnyDesk" title="AnyDesk" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/jira" height="40" alt="Jira" title="Jira" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/openssh" height="40" alt="SSH" title="SSH" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/microsoft365" height="40" alt="Microsoft 365" title="Microsoft 365" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/teamviewer" height="40" alt="TeamViewer" title="TeamViewer" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/odoo" height="40" alt="Odoo" title="Odoo" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/ITIL-4-2F4858?style=flat-square" height="28" alt="ITIL" title="ITIL" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/HelpDesk.app-Ticketing-1E90FF?style=flat-square" height="28" alt="HelpDesk.app" title="HelpDesk.app" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/clickup" height="40" alt="ClickUp" title="ClickUp" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/discord" height="40" alt="Discord" title="Discord" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/RDP-Remote%20Desktop-0078D4?style=flat-square\&logo=windows11\&logoColor=white" height="28" alt="RDP" title="RDP" />
-</p>
-`Google Workspace` `AnyDesk` `Jira` `SSH` `Microsoft 365` `TeamViewer` `Odoo` `ITIL` `HelpDesk.app` `ClickUp` `Discord` `RDP`
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-Support-4285F4?style=flat-square&logo=google&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-Remote_Support-EF443B?style=flat-square&logo=anydesk&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-Ticketing-0052CC?style=flat-square&logo=jira&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-Remote_Administration-111827?style=flat-square&logo=openssh&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-IT_Support-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-Remote_Support-0E8EE9?style=flat-square&logo=teamviewer&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-Helpdesk-714B67?style=flat-square&logo=odoo&logoColor=white)
+![ITIL](https://img.shields.io/badge/ITIL-Service_Management-2F4858?style=flat-square)
+![HelpDesk.app](https://img.shields.io/badge/HelpDesk.app-Ticketing-1E90FF?style=flat-square)
+![ClickUp](https://img.shields.io/badge/ClickUp-Task_Management-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Communication-5865F2?style=flat-square&logo=discord&logoColor=white)
+![RDP](https://img.shields.io/badge/RDP-Remote_Desktop-0078D4?style=flat-square&logo=windows11&logoColor=white)
 🌐 Infrastructure & Networking
-<p align="left">
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square\&logo=windows11\&logoColor=white" height="28" alt="Active Directory" title="Active Directory" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/ubuntu" height="40" alt="Ubuntu Server" title="Ubuntu Server" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailscale" height="40" alt="Tailscale" title="Tailscale" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square\&logo=windows11\&logoColor=white" height="28" alt="Windows Server" title="Windows Server" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/cisco" height="40" alt="Cisco IOS" title="Cisco IOS" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/debian" height="40" alt="Debian" title="Debian" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/gnubash" height="40" alt="Bash" title="Bash" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/veeam" height="40" alt="Veeam Backup" title="Veeam Backup" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/proxmox" height="40" alt="Proxmox VE" title="Proxmox VE" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/EVE--NG-Network%20Emulation-F15A24?style=flat-square" height="28" alt="EVE-NG" title="EVE-NG" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/nginx" height="40" alt="Nginx" title="Nginx" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/powershell" height="40" alt="PowerShell" title="PowerShell" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/pfsense" height="40" alt="pfSense" title="pfSense" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/truenas" height="40" alt="TrueNAS" title="TrueNAS" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/vmware" height="40" alt="VMware" title="VMware" />
-</p>
-`Active Directory` `Ubuntu Server` `Tailscale` `Windows Server` `Cisco IOS` `Debian` `Bash` `Veeam Backup` `Proxmox VE` `EVE-NG` `Nginx` `PowerShell` `pfSense` `TrueNAS` `VMware`
+![Active Directory](https://img.shields.io/badge/Active_Directory-IAM-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-VPN_&_ZTNA-242424?style=flat-square&logo=tailscale&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Administration-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-Linux_Server-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Veeam Backup](https://img.shields.io/badge/Veeam_Backup-Backup-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-Hypervisor-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-Network_Emulation-F15A24?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-Web_Server-009639?style=flat-square&logo=nginx&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-212121?style=flat-square&logo=pfsense&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-Storage-0095D5?style=flat-square&logo=truenas&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white)
 🌍 Web Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" title="Visual Studio Code" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="40" alt="PhpStorm" title="PhpStorm" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square\&logo=inertia\&logoColor=white" height="28" alt="Inertia.js" title="Inertia.js" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/wordpress" height="40" alt="WordPress" title="WordPress" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-</p>
-`Visual Studio Code` `Node.js` `Git` `CSS` `Tailwind CSS` `PhpStorm` `Figma` `MySQL` `Inertia.js` `JavaScript` `Vue.js` `PHP` `WordPress` `Laravel` `Docker` `HTML5`
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Styling-1572B6?style=flat-square&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Frontend-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-IDE-000000?style=flat-square&logo=phpstorm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-Fullstack-9553E9?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat-square&logo=html5&logoColor=white)
 🤖 AI Tools
-<p align="left">
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot" title="GitHub Copilot" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/x" height="40" alt="Grok" title="Grok" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Qwen-AI-615CED?style=flat-square" height="28" alt="Qwen" title="Qwen" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/perplexity" height="40" alt="Perplexity" title="Perplexity" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/DeepSeek-AI-4D6BFE?style=flat-square" height="28" alt="DeepSeek" title="DeepSeek" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Gemini" title="Gemini" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Cursor-AI%20Editor-000000?style=flat-square" height="28" alt="Cursor" title="Cursor" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/WriteSonic-AI-6C63FF?style=flat-square" height="28" alt="WriteSonic" title="WriteSonic" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="ChatGPT" title="ChatGPT" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/anthropic" height="40" alt="Claude" title="Claude" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/ollama" height="40" alt="Ollama" title="Ollama" />
-</p>
-`GitHub Copilot` `Grok` `Qwen` `Python` `Perplexity` `DeepSeek` `Gemini` `Cursor` `WriteSonic` `ChatGPT` `Claude` `Ollama`
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-AI-111111?style=flat-square&logo=x&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-AI-615CED?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-AI-20B2AA?style=flat-square&logo=perplexity&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-4D6BFE?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-000000?style=flat-square)
+![WriteSonic](https://img.shields.io/badge/WriteSonic-AI-6C63FF?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-AI-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white)
 ---
 🎯 Areas of Interest
 IT Support & Helpdesk
@@ -150,7 +86,7 @@ Linux Administration
 IT Infrastructure
 ---
 📫 Contact
-💼 GitHub: dj-kolkol2002
-🌐 Portfolio: dj-kolkol.netlify.app
+GitHub: dj-kolkol2002  
+Portfolio: dj-kolkol.netlify.app
 ---
 > 💡 I use GitHub as a practical IT portfolio to document homelabs, troubleshooting scenarios, configurations and projects related to Helpdesk, Networking and Infrastructure.
